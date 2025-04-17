@@ -4293,3 +4293,24 @@ FPackageName: Skipped package /Game/Chestnuts_Pack/Add_Props/Plants/Textures/T_P
 [2025.04.17-22.42.37:783][ 61]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.04.17-22.42.37:783][ 61]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.04.17-22.42.37:783][ 61]AssetCheck: /Game/VRTemplate/Blueprints/Projectile Validating asset
+[2025.04.17-22.44.11:838][148]Cmd: DELETE
+[2025.04.17-22.44.11:838][148]Cmd: ACTOR DELETE
+[2025.04.17-22.44.11:848][148]LogEditorActor: Deleted Actor: Projectile_C
+[2025.04.17-22.44.11:882][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.04.17-22.44.11:888][148]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2025.04.17-22.44.12:663][197]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-22.44.12:795][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.04.17-22.44.12:918][197]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.04.17-22.44.12:918][197]LogSavePackage: Moving '../../../../../../Users/mxz/Documents/GitHub/IGME796-Game3/DuckHuntVR/Saved/VRTemplateMap2A02FD1141CF403A2CC19A805B2807E1.tmp' to '../../../../../../Users/mxz/Documents/GitHub/IGME796-Game3/DuckHuntVR/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.04.17-22.44.12:937][197]LogFileHelpers: All files are already saved.
+[2025.04.17-22.44.12:938][197]LogFileHelpers: Saving map 'VRTemplateMap' took 0.201
+[2025.04.17-22.44.12:949][197]LogFileHelpers: InternalPromptForCheckoutAndSave took 286.584 ms (total: 7.08 sec)
+[2025.04.17-22.44.13:004][197]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.17-22.44.13:004][197]LogContentValidation: Enabled validators:
+[2025.04.17-22.44.13:004][197]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.17-22.44.13:004][197]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.17-22.44.13:004][197]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.17-22.44.13:004][197]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.17-22.44.13:004][197]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.17-22.44.13:004][197]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.17-22.44.13:004][197]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap Validating asset
